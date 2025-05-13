@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rifanmuazin.lovable.app/lovable-uploads/e27090de-a4c7-4bde-8b03-4ddd7af16352.png" width="200" alt="Rifan Muazin" />
+  <img src="https://rifanmuazin.lovable.app/lovable-uploads/e27090de-a4c7-4bde-8b03-4ddd7af16352.png" alt="Rifan Muazin" />
 </p>
 
 # 👋 Halo, saya Rifan Muazin
