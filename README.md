@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://rifanmuazin.lovable.app/lovable-uploads/e27090de-a4c7-4bde-8b03-4ddd7af16352.png" width="200" alt="Rifan Muazin" />
+</p>
+
 # 👋 Halo, saya Rifan Muazin
 
 👨‍💻 PHP Coder & WordPress Plugin Developer | 🔁 Spesialis Autoblog & SAAS Tools | 🇮🇩 Berdomisili di Bantul, Yogyakarta
@@ -88,8 +92,8 @@
 
 ## 🌐 Media Sosial
 
-- 📘 [Facebook Profil Pribadi](https://facebook.com/rifanmuazin)
-- 📘 [Facebook Sundoluhur](https://facebook.com/sundoluhur)
+- 📘 [Facebook Evan Lee Salim](https://facebook.com/rifanmuazin)
+- 📘 [Facebook Rifan Muazin](https://facebook.com/sundoluhur)
 
 ---
 
